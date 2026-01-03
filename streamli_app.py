@@ -71,7 +71,7 @@ if st.session_state.step == 0:
         "Semoga kita saling tumbuh dan berkembang menjadi lebih baik ya sayangku. "
         "Aku janji aku bakal usahakan yang terbaik buat kamu sayang.\n\n"
         "Semangaat terus kuliahnya ya meski cape dan banyak tugas, "
-        "jadiin aku tempat kamu cerita yang nyamam ya sayang.\n\n"
+        "jadiin aku tempat kamu cerita yang nyaman ya sayang.\n\n"
         "Jangan takut-takut terus buat masa depan kamu ya sayang, "
         "bagi cerita dan masa depan kamu sama aku biar kita bangun masa depan "
         "yang lebih cerah dan sukses ya sayang.\n\n"
